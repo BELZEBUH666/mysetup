@@ -5,7 +5,9 @@
 
 ### Pc
 - Sistema: Arch Linux
-- Processador:
+- Processador: ryzem 5600
+- Placa mãe:
+- Gabinete: 
 - Teclado gamer
 - Fone gamer
 - 
