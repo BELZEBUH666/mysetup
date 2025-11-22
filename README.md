@@ -5,11 +5,17 @@
 
 ### Pc
 - Sistema: Arch Linux
-- Processador: ryzem 5600
-- Placa mãe: MSI B550M PRO-VDH
-- Gabinete: Lian Li Vetor V100
-- Teclado gamer
-- Fone gamer
+- [Processador: ryzem 5600]()
+- [Placa mãe: MSI B550M PRO-VDH]()
+- [Gabinete: Lian Li Vetor V100]()
+- [Teclado]()
+- [Teclado]()
+- [Tho2]()
+- [Zero Red]()
+- [Mouse]()
+- [Mesa]()
+- [Cadeira]()
+
 - [Pasta termica](https://www.terabyteshop.com.br/produto/16215/pasta-termica-grizzly-conductonaut-1g-tg-c-001-r)
 
  
