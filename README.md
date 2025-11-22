@@ -10,6 +10,6 @@
 - Gabinete: Lian Li Vetor V100
 - Teclado gamer
 - Fone gamer
-- 
+- [Pasta termica]()
 
  
