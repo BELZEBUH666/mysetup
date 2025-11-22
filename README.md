@@ -10,6 +10,6 @@
 - Gabinete: Lian Li Vetor V100
 - Teclado gamer
 - Fone gamer
-- [Pasta termica]()
+- [Pasta termica](https://www.terabyteshop.com.br/produto/16215/pasta-termica-grizzly-conductonaut-1g-tg-c-001-r)
 
  
